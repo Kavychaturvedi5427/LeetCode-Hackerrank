@@ -1,3 +1,5 @@
+#include <stdio.
+
 bool isPerfectSquare(int num) {
     int beg=1,end=num;
     while(beg<=end){
